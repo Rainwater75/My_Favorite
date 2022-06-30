@@ -2,9 +2,22 @@ body{
     margin: 0;
     text-align: center;
     background-image: url('wallpaperflare.com_wallpaper.jpg');
-    background-size: cover;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    height: 100vh;
+    background-size: auto;
+    font-family: "Times New Roman", Times, serif;
+    min-height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100%;
+}
+
+#silksong_body{
+    margin: 0;
+    text-align: center;
+    background-image: url('hollow-knight-silksong-fan-art.jpg');
+    background-size: auto;
+    font-family: "Times New Roman", Times, serif;
+    min-height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
